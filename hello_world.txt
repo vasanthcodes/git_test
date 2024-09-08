@@ -1,1 +1,1 @@
-I am juts writing this to check with git
+I am just writing this to check with git
